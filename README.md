@@ -2,7 +2,7 @@
 
 ## Dashboard Preview
 
-<img width="782" height="442" alt="Ecommerce Orders Dashboard__" src="https://github.com/user-attachments/assets/9d412e78-0fc5-46ca-8906-26099bdad2b7" />
+![E-commerce Orders Dashboard](Screenshots/Ecommerce Orders Dashboard.png)
 
 ## 1. Project Overview
 
