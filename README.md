@@ -2,7 +2,7 @@
 
 ## Dashboard Preview
 
-C:\Users\USER\Desktop\DecodeLabs_Task_4\Screeenshots
+<img width="782" height="442" alt="Ecommerce Orders Dashboard__" src="https://github.com/user-attachments/assets/9d412e78-0fc5-46ca-8906-26099bdad2b7" />
 
 ## 1. Project Overview
 
