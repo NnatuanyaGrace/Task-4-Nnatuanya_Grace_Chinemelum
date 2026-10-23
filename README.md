@@ -244,4 +244,4 @@ The dashboard brings these indicators together in a single reporting interface, 
 * Power BI dashboard file: Ecommerce Orders Dashboard.pbix
 * Dashboard screenshot: Screenshot of the Dashboard
 * Project documentation: `README.md` file
-* Source dataset:Source dataset used for the analysis
+* Source dataset: Source dataset used for the analysis
